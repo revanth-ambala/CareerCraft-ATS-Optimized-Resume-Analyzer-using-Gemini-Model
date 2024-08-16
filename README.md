@@ -31,7 +31,7 @@ CareerCraft is a cutting-edge ATS (Applicant Tracking System) Optimized Resume A
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/careercraft.git
+   git clone https://github.com/revanth-ambala/CareerCraft: ATS-Optimized Resume Analyzer using Gemini Model.git
    cd careercraft
    
 2. **Create the Virtual Environment:**
