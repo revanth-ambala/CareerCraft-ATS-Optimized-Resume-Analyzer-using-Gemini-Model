@@ -62,3 +62,35 @@ CareerCraft is a cutting-edge ATS (Applicant Tracking System) Optimized Resume A
  - **Input 2:** Test with different job descriptions and resumes.
  - **Input 3:** Continue testing with additional examples.
 
+### Contributing
+
+- **Fork the Repository:** Click the “Fork” button on the top right of the repository page.
+
+- **Create a Branch:**
+    ```bash
+    git checkout -b feature/your-feature
+    ```
+
+- **Commit Your Changes:**
+    ```bash
+    git add .
+    git commit -m "Add your message here"
+    ```
+
+- **Push to Your Fork:**
+    ```bash
+    git push origin feature/your-feature
+    ```
+
+- **Create a Pull Request:** Go to the original repository and click “New Pull Request.”
+
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### Contact
+
+For any questions or support, please contact [ambalarevanth63@example.com].
+
+
+
